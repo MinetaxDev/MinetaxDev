@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinetaxDev
 - 👀 I’m interested in Developing Games
-- 🌱 I’m currently learning Lua/C++
+- 🌱 I’m currently learning Lua/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
