@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MinetaxDev
-- 👀 I’m owner of "Tinylox"
+- 👀 Programming in: HTML, JavaScript, Discord.js, C++, Lua.
 
 <!---
 MinetaxDev/MinetaxDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
